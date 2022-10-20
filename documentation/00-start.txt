@@ -1,0 +1,20 @@
+https://formation.webdevpro.net/git
+login mdp: git
+
+
+Projet de formalaire avec verif
+
+creer 2 dossier
+ 1 asset : css, jsj img
+ doc: not de cours
+
+
+ repo:
+ git init
+
+ git config --global user.name ""
+ git config --global user.email ""
+ git config -l
+
+ git status
+ 
