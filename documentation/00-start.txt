@@ -17,4 +17,5 @@ creer 2 dossier
  git config -l
 
  git status
- 
+
+ git restore --staged <file>
